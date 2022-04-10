@@ -1,2 +1,6 @@
 Algoritma:Belirli bir durumdan başlayıp belirli bir sonuçta biten pronlemlere çözüm getiren adımlardır.
 Bilgisayar hafızasında 1 kutucuk 1 byte yer tutar. 8 bit 1 byte'a eşittir.
+Recursion:Bir problemin alt problemlere bölünüp hesaplanmasına, nerede son bulacağını belirttiğimiz ifadelere recursion(özyineleme) denir.
+Array:Bir elemana erişmek istediğimizde anında erişebiliriz fakat yeni bir eleman geldiği zaman bütün elemanları başka bir yere taşımamız gerekebiliyor.
+Linked List:Yan yana zorunluluğu olmadan veri tutmamızı sağlayan yapı. Elemanlar hafıza içerisinde dağınık şekilde bulunabilir,
+son gelen eleman kendinden bir önceki elemana adresini bildirmek zorundadır.
