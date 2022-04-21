@@ -12,3 +12,4 @@ son gelen eleman kendinden bir önceki elemana adresini bildirmek zorundadır.
 * Queue Fifo mantığı ile çalışır. Enqueue yeni eleman eklemek, Dequeue eleman çıkarmak.
 * Hash Table: Etiketiyle birlikte getirilen ürünlere Hush Table denir. Arraylerle kullanılır.
 * Collision: Hush function farklı iki değerden aynı sayı üretilirse bu duruma rastlanır çarpışma olarak adlandırılır.
+* Big O Notation iki farklı arama yönteminde A algoritması sayfa sayfa, B algoritması yarıya bölüp tarıyor. B daha hızlı çalışır.
