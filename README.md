@@ -13,3 +13,6 @@ son gelen eleman kendinden bir önceki elemana adresini bildirmek zorundadır.
 * Hash Table: Etiketiyle birlikte getirilen ürünlere Hush Table denir. Arraylerle kullanılır.
 * Collision: Hush function farklı iki değerden aynı sayı üretilirse bu duruma rastlanır çarpışma olarak adlandırılır.
 * Big O Notation iki farklı arama yönteminde A algoritması sayfa sayfa, B algoritması yarıya bölüp tarıyor. B daha hızlı çalışır.
+* Sorting:Bir eleman dizisini belirli sıralama kurallarına göre sıralama yapar. (Alfabetik, artan, azalan)
+* Searhing:Bu yöntemi kullanarak elemanlarımızı sıraladık. Bunun sebebi elemean ararken işimizin kolaylaşması.
+* Closest Pair:Birbirine yakın sayıları gruplandırdık ki arama yaparken zamanımızı efektik şekilde kullanabilelim.
