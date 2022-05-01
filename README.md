@@ -17,3 +17,4 @@ son gelen eleman kendinden bir önceki elemana adresini bildirmek zorundadır.
 * Searhing:Bu yöntemi kullanarak elemanlarımızı sıraladık. Bunun sebebi elemean ararken işimizin kolaylaşması.
 * Closest Pair:Birbirine yakın sayıları gruplandırdık ki arama yaparken zamanımızı efektik şekilde kullanabilelim.
 * Linear search, tek tek elemanları dolandıktan sonra istediğim elemanın olup olmadığına bakmaktır.
+* Binary Search, ikili arama algoritması, diziyi her seferinde ikiye bölerek ikili arama yapar.
