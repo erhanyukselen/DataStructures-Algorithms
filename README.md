@@ -20,3 +20,8 @@ son gelen eleman kendinden bir önceki elemana adresini bildirmek zorundadır.
 * Binary Search, ikili arama algoritması, diziyi her seferinde ikiye bölerek ikili arama yapar.
 * Binary Search Tree Bir düğüm her iki tarafa da referans verebiliyor. Sağ ve sol olarak. Sağ tarafından kendinden büyük elemanlar, sol tarafında ise kendinden küçük elemanlar bulunacak.
 * Değişkenler bizim uygulama geliştirirken kullandığımız veri tutucularımızdır. Kullandığımız verinin tipine ve büyüklüğüne bağlı olarak doğru veri tipini seçiyor olmak önemlidir. 
+* Uygulama içerisinden bir atama işlemi yada durum karşılaştırması yapmak istediğimizde operatörleri kullanırız. 
+* Atama ve İşlemli Atama Operatörleri (=, +=, -=, *=, /=) 
+* Mantıksal Operatörler (||, &&, !)
+* İlişkisel Operatörler (==,!=, <, >, >=,<=)
+* Aritmetik (+, -, *, /, %, ++, --)
