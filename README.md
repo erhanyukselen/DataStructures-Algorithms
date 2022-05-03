@@ -32,3 +32,16 @@ Tip dönüşümleri 2 şekilde yapılabilir.
 
 Implicit Conversion (Bilinçsiz ya da kapalı dönüşüm)
 Explicit Conversion (Bilinçli ya da açık dönüşüm)
+
+### IF-ELSE
+* Örnek;
+* bool condition = true;
+
+if (condition)
+{
+    Console.WriteLine("Değişken: true");
+}
+else
+{
+    Console.WriteLine("Değişken: false");
+}
