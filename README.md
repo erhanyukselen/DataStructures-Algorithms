@@ -45,6 +45,7 @@ if (condition)
 }
 
 else
+
 {
 
     Console.WriteLine("Değişken: false");
