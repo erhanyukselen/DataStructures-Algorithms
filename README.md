@@ -25,6 +25,7 @@ son gelen eleman kendinden bir önceki elemana adresini bildirmek zorundadır.
 * Mantıksal Operatörler (||, &&, !)
 * İlişkisel Operatörler (==,!=, <, >, >=,<=)
 * Aritmetik (+, -, *, /, %, ++, --)
+* Closest Pair: Birbirine yakın sayıları gruplandırırız ki arama yaparken zamanımızı efektif şekilde kullanalım.
 ### Tip Dönüşümleri
 Bir değişken tanımlaması yaptığımızda bellekten o değişkenin tipine bağlı olarak bir alan tesis etmiş oluruz. Dolayısıyla tanımladığımız bu değişkene farklı veri tipinde bir değer atanması bellekte işlerin karışmasına neden olabilir. Çoğu zaman uygulama yazarken farklı veri tipleri ile çalışmak durumunda kalabiliriz. Bellekte işleri yoluna koyabilmek için bu tip durumlarda tip dönüşümü yapmamız gerekir.
 
