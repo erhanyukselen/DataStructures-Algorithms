@@ -28,6 +28,7 @@ son gelen eleman kendinden bir önceki elemana adresini bildirmek zorundadır.
 * Closest Pair: Birbirine yakın sayıları gruplandırırız ki arama yaparken zamanımızı efektif şekilde kullanalım.
 * Mode bulma: Eleman dizisini search ettikten sonra elemanların yan yana olanları sayarak daha hızlı mod bulunabilir.
 * Insertion Sort: Liste içerisindeki elemanları küçükten büyüğe sıralarken küçük ile büyüğün yerini değiştirerek ilerler.
+* Merge Sort: Listeyi ikiye bölerek başlar, tek eleman kalana kadar ikiye bölüyoruz. Kalan tek elemanları küçükten büyüğe gidicek şekilde sıralıyoruz.
 ### Tip Dönüşümleri
 Bir değişken tanımlaması yaptığımızda bellekten o değişkenin tipine bağlı olarak bir alan tesis etmiş oluruz. Dolayısıyla tanımladığımız bu değişkene farklı veri tipinde bir değer atanması bellekte işlerin karışmasına neden olabilir. Çoğu zaman uygulama yazarken farklı veri tipleri ile çalışmak durumunda kalabiliriz. Bellekte işleri yoluna koyabilmek için bu tip durumlarda tip dönüşümü yapmamız gerekir.
 
