@@ -34,6 +34,7 @@ son gelen eleman kendinden bir önceki elemana adresini bildirmek zorundadır.
 * Wi-Fi (Wireless Fidelity)
 * LAN (Local Area Network)
 * WAN (Wide Area Network)
+* DNS (Domain Name Server)
 ### Tip Dönüşümleri
 Bir değişken tanımlaması yaptığımızda bellekten o değişkenin tipine bağlı olarak bir alan tesis etmiş oluruz. Dolayısıyla tanımladığımız bu değişkene farklı veri tipinde bir değer atanması bellekte işlerin karışmasına neden olabilir. Çoğu zaman uygulama yazarken farklı veri tipleri ile çalışmak durumunda kalabiliriz. Bellekte işleri yoluna koyabilmek için bu tip durumlarda tip dönüşümü yapmamız gerekir.
 
