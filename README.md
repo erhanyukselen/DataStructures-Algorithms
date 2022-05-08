@@ -31,6 +31,7 @@ son gelen eleman kendinden bir önceki elemana adresini bildirmek zorundadır.
 * Merge Sort: Listeyi ikiye bölerek başlar, tek eleman kalana kadar ikiye bölüyoruz. Kalan tek elemanları küçükten büyüğe gidicek şekilde sıralıyoruz.
 * Quick Sort: Bir pivot seçerek kalan elemanları sağona soluna büyük küçüklüğüne göre sıralıyoruz. Worst case O(n^2) average O(nlogn)
 * Binary Search: daha hızlıdır. O(logn)
+* Wi-Fi (Wireless Fidelity) 
 ### Tip Dönüşümleri
 Bir değişken tanımlaması yaptığımızda bellekten o değişkenin tipine bağlı olarak bir alan tesis etmiş oluruz. Dolayısıyla tanımladığımız bu değişkene farklı veri tipinde bir değer atanması bellekte işlerin karışmasına neden olabilir. Çoğu zaman uygulama yazarken farklı veri tipleri ile çalışmak durumunda kalabiliriz. Bellekte işleri yoluna koyabilmek için bu tip durumlarda tip dönüşümü yapmamız gerekir.
 
