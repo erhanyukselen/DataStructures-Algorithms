@@ -65,3 +65,4 @@ else
 ### Inheritance (Kalıtım) 
 * Bir sınıfın başka bir üst sınıftan miras almasına kalıtım denir. Miras veren sınıf tüm özelliklerini alt sınıfa aktarmış olur.
 * Sözdizimi : <code> Kalıtım Alacak Alt Sınıf : Miras Verecek olan Üst Sınıf </code>
+* Her sınıf kendi kalıtım aldığı sınıfın metotlarına erişebiliyor. Çünkü üst sınıfından belirli davranışları miras almıştır.
