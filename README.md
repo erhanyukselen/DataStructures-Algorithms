@@ -112,9 +112,9 @@ UML’ in Türkçe deki karşılığı “Birleşik Modelleme Dili” olsa da as
 ## Sınıf Diyagramları (Class Diagram)
 Nesne yönelimli programlamada her bir nesnenin konseptini belirten yapılara sınıf (class) adı verilmektedir. Sınıflar çok farklı yapılarda ve işlevlerde olabilirler. Bununla birlikte, genellikle programlamada bütün iş tek bir sınıfın üzerine yüklenmez. Kuracağınız sistem ile ilgili önce temel sınıflar belirlenip daha sonra bunlar arasındaki bağlantıların açıklanması gerekir. Bunu bir yazılım geliştirme sürecinin tasarım aşamasında yaparız. Burada sınıfların modellemesi için UML kullanırız ve Sınıf Diyagramları adı veririz.
 
-## Programlamada sınıfların niteliklerini "değişkenler" , davranışlarını da "metotlar" tanımlar.
+Programlamada sınıfların niteliklerini "değişkenler" , davranışlarını da "metotlar" tanımlar.
 
-Nitelikler (Değişkenler)
+## Nitelikler (Değişkenler)
 Sınıfa ait niteliklerin sözdizimi (syntax):
 
 <Görünürlük> <İsim>: <Tür> <Multiplicity> = <Varsayılan Değer>
@@ -123,3 +123,13 @@ Görünürlük (Visibility): Niteliğin dışarıdan erişim ilkesinin ne olduğ
 İsim (Name): Niteliğe ait isimlendirme yapılır.
 Tür (Type): Bir niteliğin veri tipini belirtir.
 Varsayılan Değer (Default Value): Niteliğin, ilk değerini belirtir.
+ 
+## Davranışlar (Metotlar)
+Sınıfa ait davranışlara ait sözdizimi (syntax):
+
+<Görünürlük> <İsim>(<Parametreler>): <Geri Dönüş Tipi>
+
+Görünürlük (Visibility): Bu davranışın dışarıdan erişim ilkesinin ne olduğunu belirtir. Alabileceği değerler niteliklerde olduğu gibidir.
+İsim (Name): Metoda ait isimlendirme yapılır.
+Parametre Listesi (Parameter List): Programlamada metodun aldığı parametreler tür bilgileri ile birlikte buraya yazılır.
+Geri Dönüş Türü (Return Type): Metodun geri dönüş tipini belirtir.
