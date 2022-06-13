@@ -112,4 +112,14 @@ UML’ in Türkçe deki karşılığı “Birleşik Modelleme Dili” olsa da as
 ## Sınıf Diyagramları (Class Diagram)
 Nesne yönelimli programlamada her bir nesnenin konseptini belirten yapılara sınıf (class) adı verilmektedir. Sınıflar çok farklı yapılarda ve işlevlerde olabilirler. Bununla birlikte, genellikle programlamada bütün iş tek bir sınıfın üzerine yüklenmez. Kuracağınız sistem ile ilgili önce temel sınıflar belirlenip daha sonra bunlar arasındaki bağlantıların açıklanması gerekir. Bunu bir yazılım geliştirme sürecinin tasarım aşamasında yaparız. Burada sınıfların modellemesi için UML kullanırız ve Sınıf Diyagramları adı veririz.
 
-Programlamada sınıfların niteliklerini "değişkenler" , davranışlarını da "metotlar" tanımlar.
+## Programlamada sınıfların niteliklerini "değişkenler" , davranışlarını da "metotlar" tanımlar.
+
+Nitelikler (Değişkenler)
+Sınıfa ait niteliklerin sözdizimi (syntax):
+
+<Görünürlük> <İsim>: <Tür> <Multiplicity> = <Varsayılan Değer>
+
+Görünürlük (Visibility): Niteliğin dışarıdan erişim ilkesinin ne olduğunu belirtir. Eğer bir sınıfın niteliği public ise buraya “+“, private ise buraya “–“, protected ise buraya “#” işareti konulur.
+İsim (Name): Niteliğe ait isimlendirme yapılır.
+Tür (Type): Bir niteliğin veri tipini belirtir.
+Varsayılan Değer (Default Value): Niteliğin, ilk değerini belirtir.
