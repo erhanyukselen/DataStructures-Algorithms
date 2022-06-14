@@ -133,3 +133,11 @@ Görünürlük (Visibility): Bu davranışın dışarıdan erişim ilkesinin ne 
 İsim (Name): Metoda ait isimlendirme yapılır.
 Parametre Listesi (Parameter List): Programlamada metodun aldığı parametreler tür bilgileri ile birlikte buraya yazılır.
 Geri Dönüş Türü (Return Type): Metodun geri dönüş tipini belirtir.
+ 
+## Sınıflar Arası İlişkiler
+Yazılımlar çoğu zaman tek sınıftan oluşmazlar. Küçük programlar bile çoğu zaman birden fazla sınıfa ihtiyaç duymaktadır. Bir yazılımda sınıf sayısı arttıkça programın tasarlanması da karmaşıklaşır. Bu yüzden UML diyagramlar kullanılarak, bu karmaşıklığı daha olayın en başında minimuma indirip maliyeti azaltmaktır. Sınıflar birbirleriyle ilişki içerisinde olan yapılardır. Bu ilişkileri UML diyagramlarında da göstermek gerekir. Elbette ilişkinin türüne göre gösterim de değişiklik gösterecektir.
+
+Bağlantı İlişkisi (Association)
+Genelleme/Kalıtım İlişkisi (Generalization/Inheritance)
+Bağımlılık İlişkisi (Dependency) (Aggregation, Composition)
+Gerçekleştirim İlişkisi (Realization)
