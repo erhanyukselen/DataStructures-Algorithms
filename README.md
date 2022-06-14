@@ -141,3 +141,6 @@ Bağlantı İlişkisi (Association)
 Genelleme/Kalıtım İlişkisi (Generalization/Inheritance)
 Bağımlılık İlişkisi (Dependency) (Aggregation, Composition)
 Gerçekleştirim İlişkisi (Realization)
+ 
+## Sınıflar Arasında Türetme (Inheritance) ve Genelleme (Generalization) İlişkisi
+Nesne yönelimli programlamanın en önemli parçası türetme (inheritance)'dir. Türetme yoluyla bir sınıf başka bir sınıfın var olan özelliklerini alarak, o sınıf türünden başka bir nesneymiş gibi kullanılabilir. Bir sınıfın işlevleri türetme yoluyla genişletilecekse, türetmenin yapılacağı sınıfa taban sınıf (super class), türetilmiş olan sınıfa da türemiş sınıf (sub class) denir. Şekilsel olarak türemiş sınıftan taban sınıfa bir ok olarak belirtilir.
